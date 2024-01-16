@@ -1,1 +1,1 @@
-![Project image](public/movie.png)
+![Project image](image/movie.PNG)
